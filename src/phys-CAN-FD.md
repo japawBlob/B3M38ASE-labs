@@ -28,11 +28,11 @@ The measured resistivity of our tweaked trimmer was 114.1 $\Omega$
 
 During the first simulation, we connected a low-impedance node to our transceiver, and reflections were minimal since low impedance responded to the impedance of the twisted pair. The simulated signal can be seen in the following picture:
 
-![Low_impedance](/img/low_impedance.png)
+![Low_impedance](../img/low_impedance.png)
 
 When connected to the high-impedance node, the reflections were more noticeable. It is visible in the following picture:
 
-![High_impedance](/img/high_impedance.png)
+![High_impedance](../img/high_impedance.png)
 
 The transceiver's impedance did not have a noticeable impact on the reflection compared to the effects created by the receiver. 
 
