@@ -52,6 +52,6 @@ $$ objem\ válce [cm^3] = { průtok\ vzduchu[cm^3/min] \over otáčky[ot/min]} $
 
 po dosazení zhruba:
 
-$$ objem\ válce = {2100\over2100} = 1cm^3 $$
+$$ objem\ válce = {2100\over2100} * 2 = 2cm^3 $$
 
 Pro daný typ motoru jsme našli objem válce: $3.5cm^3$.
